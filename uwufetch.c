@@ -277,6 +277,7 @@ void uwu_name(struct configuration* config_flags, struct info* user_info) {
 	else STRING_TO_UWU("ubuntu", "Uwuntu");
 	else STRING_TO_UWU("void", "OwOid");
 	else STRING_TO_UWU("xerolinux", "xuwulinux");
+	else STRING_TO_UWU("gardevoiros", "gardOwOirOS");
 	else STRING_TO_UWU("android", "Nyandroid"); // android at the end because it could be not considered as an actual distribution of gnu/linux
 
 	// BSD
@@ -345,6 +346,7 @@ void uwu_kernel(char* kernel) {
 		else KERNEL_TO_UWU(splitted[i], "ubuntu", "Uwuntu");
 		else KERNEL_TO_UWU(splitted[i], "void", "OwOid");
 		else KERNEL_TO_UWU(splitted[i], "xerolinux", "xuwulinux");
+		else KERNEL_TO_UWU(splitted[i], "gardevoiros", "gardOwOirOS");
 		else KERNEL_TO_UWU(splitted[i], "android", "Nyandroid"); // android at the end because it could be not considered as an actual distribution of gnu/linux
 
 		// BSD
