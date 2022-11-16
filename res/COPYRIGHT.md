@@ -1,6 +1,6 @@
 # Introduction
 
-Int this directory, all the logo images, are stored.
+In this directory are stored all the logo images.
 
 This file contains all copyright info for every image that `uwufetch` uses. If you want to remove _your_ image from this repository contact me on [reddit](https://www.reddit.com/user/TheDarkBug).
 I am not a copyright expert, and maybe I am doing all wrong things, please correct this file if you notice something wrong.
@@ -95,13 +95,13 @@ I am not a copyright expert, and maybe I am doing all wrong things, please corre
 
 #
 
-## Endeavour OS
+## EndeavourOS
 
 <img title="Endowo Os" src="https://raw.githubusercontent.com/TheDarkBug/uwufetch/main/res/endeavouros.png" alt="image" width="100">
 
 ### Base artwork:
 
--   Copyright Holder: Endeavour OS Devs
+-   Copyright Holder: EndeavourOS Devs
 -   License: [No license was mentioned on the website](https://endeavouros.com/endeavouros-logo/)
 -   [Reference](https://endeavouros.com/endeavouros-logo/)
 
@@ -419,6 +419,18 @@ I am not a copyright expert, and maybe I am doing all wrong things, please corre
 -   License: [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/)
 -   [Reference](https://t.me/openbsd_zh/454)
 
+
+#
+
+## gardevoirOS
+
+<img title="gardOwOirOS" src='https://github.com/DanyB0/uwufetch/blob/main/res/gardevoiros.png' alt="image" width="100">
+
+### Base artwork:
+
+-   Copyright Holder: Dalkiaart
+-   License: None
+-   [Reference](https://www.deviantart.com/dalkiaart)
 
 <!--
 ## TEMPLATE
